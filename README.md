@@ -33,7 +33,3 @@ Analysis of consumer complaints related to credit card companies. From data clea
 ## Classification Model
 - **Classification Model**: I employed a Random Forest Classifier to predict consumer disputes and timely responses. 
 - **Confusion Matrix**: My classification model offers predictive capabilities, and I evaluated its performance using a confusion matrix.
-
-Explore, contribute, and use these insights to enhance your understanding of consumer complaints in the banking and credit card industry.
-
-**Happy Analyzing!** 🚀
