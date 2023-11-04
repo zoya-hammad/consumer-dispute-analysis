@@ -1,6 +1,6 @@
 # Bank and Credit Card Complaints 🏦
 
-Analysis of consumer complaints related to credit card companies. From data cleaning and visualization to training a classification model, here are some insights from my journey.
+Analysis of consumer complaints related to credit card companies.
 
 ## Project Overview
 
@@ -29,7 +29,3 @@ Analysis of consumer complaints related to credit card companies. From data clea
 
 - **Graphs**: My visualizations include bar charts and pie charts to highlight important trends and insights.
 - **Correlation Matrix**: I analyzed the correlation matrix to prepare for classification.
-
-## Classification Model
-- **Classification Model**: I employed a Random Forest Classifier to predict consumer disputes and timely responses. 
-- **Confusion Matrix**: My classification model offers predictive capabilities, and I evaluated its performance using a confusion matrix.
